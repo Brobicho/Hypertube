@@ -1,6 +1,6 @@
 # Hypertube
 
-Troisième et dernier projet pré-stage de la branche web à l'école 42.
+Troisième et dernier projet de groupe pré-stage de la branche web à l'école 42.
 
 Ce projet vous propose de créer une application web permettant à un utilisateur de rechercher et visionner des vidéos.
 
