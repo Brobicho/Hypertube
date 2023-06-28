@@ -16,6 +16,6 @@ Le lecteur sera directement intégré au site, et les vidéos seront télécharg
 
 ## Fonctionnalités
 
-- Connexion et inscrition via local stratégie et omniauth (Google, Slack, Discord, Github, Twitch, 42)
+- Connexion et inscrition via stratégie locale et OmniAuth (Google, Slack, Discord, Github, Twitch, 42)
 - Recherche de torrent via RARBG et YTS.AM
 - Conversion du flux vidéo à la volée en format webm (240p, 360p, 480p, 720p, 1080p)
